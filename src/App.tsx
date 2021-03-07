@@ -1,11 +1,17 @@
 import React from 'react';
+import styled from 'styled-components';
+import { Homepage } from './homepage/_homepage';
 
-function App() {
+const AppContainer = styled.div`
+  * {
+    box-sizing: border-box;
+  }
+`;
+
+export const App = (props: {}) => {
   return (
-    <div className="App">
-      Hi there
-    </div>
+    <AppContainer>
+      <Homepage/>
+    </AppContainer>
   );
 }
-
-export default App;
