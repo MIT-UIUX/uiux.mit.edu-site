@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "http://uiux.scripts.mit.edu/uiux.mit.edu-site/ /static/css/main.dc4ddeb5.chunk.css",
-    "main.js": "http://uiux.scripts.mit.edu/uiux.mit.edu-site/ /static/js/main.6f3bcf0a.chunk.js",
-    "main.js.map": "http://uiux.scripts.mit.edu/uiux.mit.edu-site/ /static/js/main.6f3bcf0a.chunk.js.map",
-    "runtime-main.js": "http://uiux.scripts.mit.edu/uiux.mit.edu-site/ /static/js/runtime-main.cc2e611a.js",
-    "runtime-main.js.map": "http://uiux.scripts.mit.edu/uiux.mit.edu-site/ /static/js/runtime-main.cc2e611a.js.map",
-    "static/js/2.ca29a85e.chunk.js": "http://uiux.scripts.mit.edu/uiux.mit.edu-site/ /static/js/2.ca29a85e.chunk.js",
-    "static/js/2.ca29a85e.chunk.js.map": "http://uiux.scripts.mit.edu/uiux.mit.edu-site/ /static/js/2.ca29a85e.chunk.js.map",
-    "static/js/3.6d4bc17a.chunk.js": "http://uiux.scripts.mit.edu/uiux.mit.edu-site/ /static/js/3.6d4bc17a.chunk.js",
-    "static/js/3.6d4bc17a.chunk.js.map": "http://uiux.scripts.mit.edu/uiux.mit.edu-site/ /static/js/3.6d4bc17a.chunk.js.map",
-    "index.html": "http://uiux.scripts.mit.edu/uiux.mit.edu-site/ /index.html",
-    "static/css/main.dc4ddeb5.chunk.css.map": "http://uiux.scripts.mit.edu/uiux.mit.edu-site/ /static/css/main.dc4ddeb5.chunk.css.map",
-    "static/js/2.ca29a85e.chunk.js.LICENSE.txt": "http://uiux.scripts.mit.edu/uiux.mit.edu-site/ /static/js/2.ca29a85e.chunk.js.LICENSE.txt"
+    "main.css": "http://uiux.scripts.mit.edu/uiux.mit.edu-site/production/static/css/main.dc4ddeb5.chunk.css",
+    "main.js": "http://uiux.scripts.mit.edu/uiux.mit.edu-site/production/static/js/main.6f3bcf0a.chunk.js",
+    "main.js.map": "http://uiux.scripts.mit.edu/uiux.mit.edu-site/production/static/js/main.6f3bcf0a.chunk.js.map",
+    "runtime-main.js": "http://uiux.scripts.mit.edu/uiux.mit.edu-site/production/static/js/runtime-main.d0fe7719.js",
+    "runtime-main.js.map": "http://uiux.scripts.mit.edu/uiux.mit.edu-site/production/static/js/runtime-main.d0fe7719.js.map",
+    "static/js/2.0c55ac9b.chunk.js": "http://uiux.scripts.mit.edu/uiux.mit.edu-site/production/static/js/2.0c55ac9b.chunk.js",
+    "static/js/2.0c55ac9b.chunk.js.map": "http://uiux.scripts.mit.edu/uiux.mit.edu-site/production/static/js/2.0c55ac9b.chunk.js.map",
+    "static/js/3.6d4bc17a.chunk.js": "http://uiux.scripts.mit.edu/uiux.mit.edu-site/production/static/js/3.6d4bc17a.chunk.js",
+    "static/js/3.6d4bc17a.chunk.js.map": "http://uiux.scripts.mit.edu/uiux.mit.edu-site/production/static/js/3.6d4bc17a.chunk.js.map",
+    "index.html": "http://uiux.scripts.mit.edu/uiux.mit.edu-site/production/index.html",
+    "static/css/main.dc4ddeb5.chunk.css.map": "http://uiux.scripts.mit.edu/uiux.mit.edu-site/production/static/css/main.dc4ddeb5.chunk.css.map",
+    "static/js/2.0c55ac9b.chunk.js.LICENSE.txt": "http://uiux.scripts.mit.edu/uiux.mit.edu-site/production/static/js/2.0c55ac9b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc2e611a.js",
-    "static/js/2.ca29a85e.chunk.js",
+    "static/js/runtime-main.d0fe7719.js",
+    "static/js/2.0c55ac9b.chunk.js",
     "static/css/main.dc4ddeb5.chunk.css",
     "static/js/main.6f3bcf0a.chunk.js"
   ]
