@@ -32,6 +32,28 @@ const LogoImage = styled.img`
     padding: 40px;
 `;
 
+const AlertBoxDiv = styled.div`
+    background-color: #F37D68;
+    color: #F1F4F8;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+
+    @media (min-width: 701px) {
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    &>p {
+        color: #F1F4F8;
+    }
+`;
+
 const TextBoxDiv = styled.div`
     background-color: #FBD6CC;
     padding-left: 20px;
@@ -148,6 +170,10 @@ export const Homepage = (props: {}) => {
     return (
         <HomepageContainer>
             <LogoImage src="https://i.postimg.cc/P5wTsT7Q/12925-UI-UX-MIT-logo-VP-04.png"></LogoImage>
+
+            <AlertBoxDiv>
+                <p>Please note that as of Fall 2023, UI/UX@MIT is no longer an active student organization.</p>
+            </AlertBoxDiv>
 
             <TextBoxDiv>
                 <h3>About Us</h3>
